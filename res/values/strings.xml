@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speech</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="comenzar">Tocar y Hablar</string>
+    <string name="reconocido">Palabra reconocida:</string>
+    <string name="str1">Hablame</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre</string>
+
+</resources>
